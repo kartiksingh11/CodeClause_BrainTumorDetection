@@ -62,10 +62,10 @@ Each input x (image) has a shape of (240, 240, 3) and is fed into the neural net
 The model was trained for 24 epochs and these are the loss & accuracy plots:
 
 
-![Loss plot](Loss.PNG)
+![Loss plot](Loss.png)
 
 
-![Accuracy plot](Accuracy.PNG)
+![Accuracy plot](Accuracy.png)
 
 The best validation accuracy was achieved on the 23rd iteration.
 
